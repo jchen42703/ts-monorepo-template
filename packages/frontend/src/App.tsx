@@ -2,7 +2,7 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import _ from "lodash";
-import { QueryPayload } from "shared-dto";
+import { QueryPayload } from "@ts-template-namespace/shared-dto";
 
 function App() {
   return (

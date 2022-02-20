@@ -1,6 +1,6 @@
 import express from "express";
 import _ from "lodash";
-import { QueryPayload } from "shared-dto";
+import { QueryPayload } from "@ts-template-namespace/shared-dto";
 
 const app = express();
 const port = 3001;
