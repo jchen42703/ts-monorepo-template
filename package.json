@@ -1,0 +1,11 @@
+{
+  "name": "ts-monorepo-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joseph Chen <jchen42703@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0",
+    "typescript": "^4.5.5"
+  }
+}
